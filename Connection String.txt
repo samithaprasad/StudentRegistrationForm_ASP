@@ -1,0 +1,1 @@
+string connString = "server =localhost; Uid=root; password = toor;  database =login;";
