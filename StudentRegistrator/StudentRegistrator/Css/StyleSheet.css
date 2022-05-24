@@ -1,0 +1,40 @@
+﻿* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body {
+   
+    background-image:url('../Images/ljrBvi.jpg');
+    
+}
+header {background-color:#333;
+padding:45px;
+text-align:center;
+ font-family:'BenguiatGot Bk BT';
+ color:#ffF;
+}
+
+main {width:90vw;
+      margin: auto;
+      padding:30px 20px;
+     font-size:25px;
+     color:#333;
+     font-weight:bold;
+     min-height: calc(110vh - 211px - 58px);
+    
+    }
+.btnSubmit {
+    font-size:25px;
+    font-weight:bold;
+}
+
+footer {
+    background-color:#333;
+padding:20px;
+text-align:center;
+ font-family:'BenguiatGot Bk BT';
+ color:#fff;
+
+}
+
